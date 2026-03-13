@@ -1,0 +1,6 @@
+*.txt
+*playground*
+*.pyc
+.vscode/*
+*.pt
+*.h5
